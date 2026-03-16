@@ -18,7 +18,7 @@ mintegral.com, 58474, DIRECT
 ironsrc.com, 585529, DIRECT
 
 # Meta Audience Network
-facebook.com, 1193206525752822, DIRECT
+facebook.com, 1178744844200939, DIRECT
 
 # Moloco
 moloco.com, EYiKmda0nmzlAWt9, DIRECT, 9f3e7e1b87a2e0d1
