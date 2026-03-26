@@ -1,5 +1,5 @@
 # app-ads.txt for Almond Party Labs
-# Format: <ad system domain>, <publisher ID>, DIRECT, <certification ID (if available)>
+# Format: <ad system domain>, <publisher ID>, DIRECT|RESELLER, <certification ID>
 
 # AppLovin
 applovin.com, 4aed4302657214ce4b1448e66d3c37a68feab6fb, DIRECT
@@ -9,18 +9,17 @@ liftoff.io, 68a57150883e4b643ef2bb0a, DIRECT
 
 # Google AdMob
 google.com, pub-3327341946875923, DIRECT, f08c47fec0942fa0
-google.com, pub-3841057538135937, DIRECT, f08c47fec0942fa0
 
 # Mintegral
-mintegral.com, 58474, DIRECT
+mintegral.com, 58474, DIRECT, 0aeed750c80d6423
 
 # IronSource
 ironsrc.com, 585529, DIRECT
 
 # Meta Audience Network
-facebook.com, 1178744844200939, DIRECT
-facebook.com, 828326212892278, DIRECT
-facebook.com, 604482158898943, DIRECT, c3e20eee3f780d68
+facebook.com, 1178744844200939, RESELLER, c3e20eee3f780d68
+facebook.com, 828326212892278, RESELLER, c3e20eee3f780d68
+facebook.com, 604482158898943, RESELLER, c3e20eee3f780d68
 
 # Moloco
 moloco.com, EYiKmda0nmzlAWt9, DIRECT, 9f3e7e1b87a2e0d1
@@ -28,8 +27,8 @@ moloco.com, EYiKmda0nmzlAWt9, DIRECT, 9f3e7e1b87a2e0d1
 # Unity Ads
 unityads.unity3d.com, 20067386161673, DIRECT
 
-# Google Ads Manager
-google.com, pub-3327341946875923, DIRECT, f08c47fec0942fa0
+# Pangle
+pangleglobal.com, 5037029, DIRECT
 
 # Additional Ad Networks (RESELLER)
 applovin.com, af21c57e6397433d9f8ccdcd7f8d4dfd, DIRECT
