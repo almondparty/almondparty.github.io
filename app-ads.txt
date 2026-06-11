@@ -604,3 +604,8 @@ zetaglobal.net,512,RESELLER
 zetaglobal.net,856,RESELLER
 zmaticoo.com,5135199,RESELLER
 zmaticoo.com,5135535,RESELLER
+# DT Exchange resellers added in DT's 2026-06-01 list update
+gadsme.com,cmpcg193l00utwm0j3pw96obk,RESELLER,6e0ed2d8104a4234
+openx.com,562423374,RESELLER,6a698e2ec38604c6
+rubiconproject.com,26156,RESELLER,0bfd66d529a55807
+triplelift.com,14705,RESELLER,6c33edb13117fd86
